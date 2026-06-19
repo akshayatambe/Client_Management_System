@@ -20,20 +20,7 @@ The system allows users to efficiently manage customer leads by adding, updating
 5) Deal Pipeline Tracking
 The application includes a deal pipeline system that helps users visualize different stages of sales processes such as prospect, negotiation, won, and lost deals. This improves sales tracking and workflow organization.
 
-6) Activity Monitoring
-Users can manage and monitor daily activities such as calls, meetings, follow-ups, and tasks. This feature helps maintain productivity and ensures proper tracking of customer interactions.
 
-7) Responsive UI Design
-The user interface is fully responsive and optimized for desktop, tablet, and mobile devices. Tailwind CSS is used to create a clean, modern, and flexible design system for better user experience.
-
-8) Secure Authentication using Supabase
-Supabase provides backend authentication and secure database connectivity. User data and sessions are securely managed using Supabase services, ensuring safe access control and reliable backend integration.
-
-9) Real-Time Data Handling
-The application supports dynamic and real-time data updates, allowing users to instantly view changes in leads, deals, and activities without requiring manual page refreshes.
-
-10) Clean and Professional Interface
-Pulse CRM follows modern UI/UX principles with organized layouts, proper spacing, smooth navigation, and professional dashboard components to create an intuitive user experience.
 
 ---
 
